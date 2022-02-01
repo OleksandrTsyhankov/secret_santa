@@ -1,0 +1,14 @@
+{
+  "name": "secret_santa_2022",
+  "version": "1.0.0",
+  "description": "secret_santa",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Tsyhankov",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
